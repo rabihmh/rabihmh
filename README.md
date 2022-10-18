@@ -4,9 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Specialist in backend;Always+learning+new+things;Freelancer&center=true&width=380&height=45"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabihmh&label=Profile%20views&color=0e75b6&style=flat" alt="rabihmh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabihmh" alt="rabihmh" /></a> </p>
-
 - 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [rabihmh.me](https://rabihmh.me/)
