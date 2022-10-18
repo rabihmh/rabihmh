@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rabih Mahmoud</h1>
-<h3 align="center">A passionate Backend developer from Lebanon</h3>
-
+<br/>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Specialist in backend;Always+learning+new+things;Freelancer&center=true&width=380&height=45"></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabihmh&label=Profile%20views&color=0e75b6&style=flat" alt="rabihmh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabihmh" alt="rabihmh" /></a> </p>
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [rabihmh.me](https://rabihmh.me)
+- 👨‍💻 All of my projects are available at [rabihmh.me](rabihmh.me)
 
 - 📫 How to reach me **rabih.mahmoud.99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -24,3 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabihmh&" alt="rabihmh" /></p>
 
+<hr>
+<h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rabihmh&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabihmh&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabihmh&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rabihmh&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rabihmh&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rabihmh&theme=monokai&utcOffset=8)
