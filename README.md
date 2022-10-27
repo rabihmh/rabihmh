@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabih Mahmoud</h1>
 <br/>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Specialist in backend;Always+learning+new+things;Freelancer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+full+stack+developer;Specialist+in+backend;Always+learning+new+things;+Freelancer"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabihmh&label=Profile%20views&color=0e75b6&style=flat" alt="rabihmh" /> </p>
 - 🌱 I’m currently learning **Nodejs**
