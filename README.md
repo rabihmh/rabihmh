@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabihmh&label=Profile%20views&color=0e75b6&style=flat" alt="rabihmh" /> </p>
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [rabihmh.me](https://rabihmh.me/)
+- 👨‍💻 All of my projects are available at [rabihmah.me](https://rabihmah.me/)
 
 - 📫 How to reach me **rabih.mahmoud.99@gmail.com**
 
